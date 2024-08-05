@@ -1,5 +1,5 @@
-- 👋 Hola! soy melynight o Melany.
-- 👀 Me gustan los videojuegos, amo aprender cosas nuevas sobre informática en general y mi objetivo es aportar al mundo algo bueno.
-- 🌱 Estoy haciendo la Tecnicatura Universitaria en Programación (UTN).
-- 📫 Mi mail: melinahir.md@gmail.com
+- 👋 Hola! Soy melynight o Mel.
+- 🌱 Técnica Universitaria en Programación
+- 👀 Me gustan los videojuegos y aprender cosas nuevas. En mis tiempos libre me gusta participar en proyectos de diseño y desarrollo web. 
+- 📫 Contacto: melinahir.md@gmail.com
 
