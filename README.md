@@ -1,8 +1,15 @@
-👋 I'm melynight or Mel
-🌱 University Technician in Programming / Web designer at Escuela Da Vinci
-👀 I love my computer and learning new things. In my free time, I enjoy playing the Sims or Valorant. I also work on freelance projects :)
-📫 Contact: melinahir.md@gmail.com - Buenos Aires, Argentina
+👋 Hi, I'm Mel
+Founder of Dalama Studio — Design & Web Development
 
-Welcome to my personal repository. 
+🌱 University Technician in Programming / Web Designer
 
- 
+💻 I design and build complete digital experiences:
+branding, visual identity, and custom landing pages
+
+👀 I love learning new things and working on creative projects
+🎮 In my free time: The Sims & Valorant
+
+📍 Buenos Aires, Argentina
+📫 Contact: melinahir.md@gmail.com
+
+Welcome to my repository ✨
